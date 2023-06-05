@@ -5,8 +5,8 @@ Module : B1 - Unix & C Lab Seminar (Part I) [B-CPE-100]
 
 ## Results :
 
-Grade : A
-Mark : 20
+Grade : A | Mark : 20
+
 
 |      **Category**      | **Percentage** | **Tests** | **Crash ?** |
 |------------------------|----------------|-----------|-------------|
